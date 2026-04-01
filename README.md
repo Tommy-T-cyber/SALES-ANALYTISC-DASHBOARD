@@ -1,13 +1,13 @@
-# 🚀 Sales Analytics Dashboard
+ Sales Analytics Dashboard
 
-## 📌 Overview
+ Overview
 This project is a Java-based Sales Analytics Dashboard designed to provide real-time insights into business performance.
 
 It transforms raw sales data into meaningful visualizations and key performance indicators (KPIs) for better decision-making.
 
 ---
 
-## 🔍 Features
+ Features
 - Real-time KPI tracking (Revenue, Orders, Quantity)
 - Top 10 Products and Customers
 - Line, Bar, and Pie Charts (JFreeChart)
@@ -16,7 +16,7 @@ It transforms raw sales data into meaningful visualizations and key performance 
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 - Java (Swing)
 - MySQL
 - JDBC
@@ -24,7 +24,7 @@ It transforms raw sales data into meaningful visualizations and key performance 
 
 ---
 
-## 🗄 Database Setup
+ Database Setup
 
 1. Open MySQL
 2. Import the file:
@@ -32,7 +32,7 @@ It transforms raw sales data into meaningful visualizations and key performance 
 
 ---
 
-## ▶️ How to Run
+How to Run
 
 1. Open project in your IDE (NetBeans / IntelliJ)
 2. Update database connection (username & password)
@@ -40,7 +40,7 @@ It transforms raw sales data into meaningful visualizations and key performance 
 
 ---
 
-## 💡 Purpose
+ Purpose
 This project was developed to help managers:
 - Monitor business performance in real time
 - Identify growth trends
@@ -48,7 +48,7 @@ This project was developed to help managers:
 
 ---
 
-## 👨‍💻 Author
-Your Name  
+ Author
+Your Name:  THOMPSON JOSEPH ARDEY
 Second Year Student – Data Science & Analytics  
 University of Mines and Technology
